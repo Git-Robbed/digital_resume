@@ -5,7 +5,7 @@ A modern, responsive personal portfolio website built with HTML, CSS, and Tailwi
 ## Features
 
 - **Responsive Design**: Optimized for all devices and screen sizes
-- **Dark/Light Theme**: Multiple theme variations available
+- **Dark/Light Theme**: Dark theme is default, with light theme variants available
 - **Interactive Elements**: Smooth animations and transitions
 - **Contact Form**: Functional contact form with PHP backend
 - **Portfolio Showcase**: Gallery of work samples and projects
@@ -20,19 +20,19 @@ A modern, responsive personal portfolio website built with HTML, CSS, and Tailwi
 - **Blog**: Blog posts and articles
 - **Contact**: Contact form and information
 
-## Dark Theme Variants
+## Light Theme Variants
 
-Each page includes both light and dark theme versions:
-- `index.html` / `index_dark.html`
-- `portfolio.html` / `portfolio_dark.html`
-- `resume.html` / `resume_dark.html`
-- `blog.html` / `blog_dark.html`
-- `contacts.html` / `contacts_dark.html`
+Each page includes both dark and light theme versions (dark is default):
+- `index.html` / `index_light.html`
+- `portfolio.html` / `portfolio_light.html`
+- `resume.html` / `resume_light.html`
+- `blog.html` / `blog_light.html`
+- `contacts.html` / `contacts_light.html`
 
 ## One-Page Version
 
 Also includes one-page versions for a more compact experience:
-- `index_onepage.html` / `index_onepage_dark.html`
+- `index_onepage.html` / `index_onepage_light.html`
 
 ## Technologies Used
 
